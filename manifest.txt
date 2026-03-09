@@ -1,0 +1,16 @@
+botproject/manage.py
+botproject/requirements.txt
+botproject/README.md
+botproject/botproject/__init__.py
+botproject/botproject/settings.py
+botproject/botproject/urls.py
+botproject/botproject/wsgi.py
+botproject/chatapp/__init__.py
+botproject/chatapp/apps.py
+botproject/chatapp/models.py
+botproject/chatapp/migrations/__init__.py
+botproject/chatapp/management/__init__.py
+botproject/chatapp/management/commands/__init__.py
+botproject/chatapp/management/commands/chat_bot.py
+terminal_screenshot.png
+assignment_submission.docx
